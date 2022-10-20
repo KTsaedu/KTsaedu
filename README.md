@@ -34,7 +34,7 @@ Developing API through the methodology of API-led connectivity is with the help
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu&layout=compact)](https://github.com/KTsaedu/github-readme-stats)
+[![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 
 
 
