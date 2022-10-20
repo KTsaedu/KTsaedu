@@ -32,13 +32,16 @@ Developing API through the methodology of API-led connectivity is with the help
 <img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r" alt="r Badge" height="25">&nbsp;
 
 ## GitHub Analytics
+
+![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
+
 <div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KTsaedu&theme=default"> 
 </div>
 
 
-![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
+
 
 
 
