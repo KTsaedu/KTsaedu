@@ -7,7 +7,7 @@
 ## Hey 👋 I'm Kahsay Tsaedu !💻
 I am a Certified Mulesoft Developer, Certified O365 Technical support engineer, cloud engineer, Data science and machine learning practitioner and learner. 
 Developing API through the methodology of API-led connectivity is with the help of RAML and DataWeave has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
-//
+
 ![Profile Views](https://komarev.com/ghpvc/?username=KTsaedu&theme=default&color=blue&style=flat&label=Profile+Views)
 
 ## About me
