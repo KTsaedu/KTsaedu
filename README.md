@@ -4,20 +4,14 @@
 <a href="https://www.linkedin.com/in/www.linkedin.com/in/kas-tsa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/Chollk3" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
-## 👋 Hello World
-### Hey 👋 I'm Kahsay Tsaedu !💻
-
+## Hey 👋 I'm Kahsay Tsaedu !💻
 I am a Certified Mulesoft Developer, Certified O365 Technical support engineer, cloud engineer, Data science and machine learning practitioner and learner. 
 Developing API through the methodology of API-led connectivity is with the help of RAML and DataWeave has always seemed to be a superpower for me. I am here to solve things, Learning a lot in the process.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KTsaedu&theme=default&color=blue&style=flat&label=Profile+Views)
 
-
 ## About me
-🔭&nbsp;I’m  *Certified Mulesoft Developer, 🌱 O365 Certified, O365 Admin, MS365 Architect, Exchange Online, Exchange Hybrid, AzureAD, DNS, SCC , Microsoft Teams, Endpoint Manager, Defender ATP, DLP, Outlook*
-
+🔭&nbsp; I’m  **Certified Mulesoft Developer, O365 Certified, MS365 Architect, Exchange Online, Exchange Hybrid, AzureAD, DNS, SCC , Microsoft Teams,  Endpoint Manager, Defender ATP, DLP, Outlook**
 <br/>🎓&nbsp;Graduated in **Applied Science, Economics **
-
 <br/>🌱&nbsp;Learning about *I’m currently Data Science Fellow at Data science  4 all (4th cohort), Data Science practitioner and learner at WorldQuant University Data Science Lab *
 <br/>💡&nbsp;I'm interested about ** I’m looking to collaborate on  Mulesoft, Office 365 related  consultancy and research on economics issues specially microeconomic policy, Economic analysis, Industrial computation, market structure issue **
 <br/>💬&nbsp;Ask me about **Mulesoft, O365 and economics (IO)**
@@ -43,7 +37,6 @@ Developing API through the methodology of API-led connectivity is with the help
 
 
 ![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 
 
