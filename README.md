@@ -13,7 +13,6 @@ Developing API through the methodology of API-led connectivity is with the help
 ![Profile Views](https://komarev.com/ghpvc/?username=KTsaedu&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
-
 ## About me
 🔭&nbsp;I’m  *Certified Mulesoft Developer, 🌱 O365 Certified, O365 Admin, MS365 Architect, Exchange Online, Exchange Hybrid, AzureAD, DNS, SCC , Microsoft Teams, Endpoint Manager, Defender ATP, DLP, Outlook*
 
@@ -40,12 +39,12 @@ Developing API through the methodology of API-led connectivity is with the help
 ## GitHub Analytics
 <div>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KTsaedu&theme=default"> 
-![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 </div>
 
 
+![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 
 
 
