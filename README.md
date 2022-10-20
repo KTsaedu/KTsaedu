@@ -29,6 +29,7 @@ Developing API through the methodology of API-led connectivity is with the help
 <img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" alt="oracle Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=oracle" alt="PowerShell Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r" alt="r Badge" height="25">&nbsp;
 
 ## GitHub Analytics
