@@ -13,12 +13,6 @@ Developing API through the methodology of API-led connectivity is with the help
 ![Profile Views](https://komarev.com/ghpvc/?username=KTsaedu&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
-![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
-
 
 ## About me
 🔭&nbsp;I’m  *Certified Mulesoft Developer, 🌱 O365 Certified, O365 Admin, MS365 Architect, Exchange Online, Exchange Hybrid, AzureAD, DNS, SCC , Microsoft Teams, Endpoint Manager, Defender ATP, DLP, Outlook*
@@ -26,11 +20,8 @@ Developing API through the methodology of API-led connectivity is with the help
 <br/>🎓&nbsp;Graduated in **Applied Science, Economics **
 
 <br/>🌱&nbsp;Learning about *I’m currently Data Science Fellow at Data science  4 all (4th cohort), Data Science practitioner and learner at WorldQuant University Data Science Lab *
-
 <br/>💡&nbsp;I'm interested about ** I’m looking to collaborate on  Mulesoft, Office 365 related  consultancy and research on economics issues specially microeconomic policy, Economic analysis, Industrial computation, market structure issue **
-
 <br/>💬&nbsp;Ask me about **Mulesoft, O365 and economics (IO)**
-
 <br/>⚡&nbsp;Fun fact *I'm not much funny but i like talking with new  friends, sharing idea's ..*
 
 ## Tech Stack
@@ -48,7 +39,9 @@ Developing API through the methodology of API-led connectivity is with the help
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KTsaedu&theme=default">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KTsaedu&theme=default"> 
+![Kahsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTsaedu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTsaedu)](https://github.com/KTsaedu/github-readme-stats)
 </div>
 
 
