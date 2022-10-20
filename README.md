@@ -19,17 +19,20 @@ Developing API through the methodology of API-led connectivity is with the help
 <br/>⚡&nbsp;Fun fact *I'm not much funny but i like talking with new  friends, sharing idea's ..*
 
 ## Tech Stack
+<img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=PowerShell" alt="PowerShell Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/DataWeave-05122A?style=flat&logo=DataWeave" alt="DataWeave Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/STATA-05122A?style=flat&logo=STATA" alt="STATA Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Json-05122A?style=flat&logo=Json" alt="Json Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/XML-05122A?style=flat&logo=XML" alt="XML Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Apache-05122A?style=flat&logo=apache" alt="apache Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Matlab-05122A?style=flat&logo=matlab" alt="matlab Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Oracle-05122A?style=flat&logo=oracle" alt="oracle Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-05122A?style=flat&logo=oracle" alt="PowerShell Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/R-05122A?style=flat&logo=r" alt="r Badge" height="25">&nbsp;
 
 ## GitHub Analytics
